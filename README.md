@@ -1,52 +1,53 @@
 # Hi, I'm Uchechi Favour 👋
 
-Cloud Support & Technical Support Engineer in training, building real-world projects using AWS, Linux, and DevOps tools.
+Cloud Support & Technical Support Engineer focused on deploying, troubleshooting, and maintaining cloud-based systems using AWS and Linux.
 
 ---
 
-## 🚀 Current Focus
-- Cloud Support (AWS)
-- Linux System Administration
-- Troubleshooting & Incident Management
-- DevOps (Terraform, Monitoring, Automation)
+## 🚀 What I Do
+- Deploy and manage cloud infrastructure on AWS  
+- Troubleshoot system, network, and access issues  
+- Support Linux-based environments  
+- Monitor system performance and resolve incidents  
+- Document solutions and improve support workflows  
 
 ---
 
 ## 🔧 Tech Stack
-- AWS (EC2, S3, IAM, VPC, CloudWatch)
-- Linux
-- NGINX
-- Terraform
-- Git & GitHub
-- Zendesk / CRM tools
+- AWS (EC2, S3, IAM, VPC, CloudWatch)  
+- Linux  
+- NGINX  
+- Terraform  
+- Git & GitHub  
+- Zendesk / CRM tools  
 
 ---
 
 ## 📂 Projects
 
-### 🔹 30-Day DevOps Challenge
-👉 https://github.com/yourusername/cloud-support-devops-30days  
-Real-world cloud support simulation with monitoring, troubleshooting, and automation.
+### 🔹 Cloud Support & DevOps Monitoring System
+👉 https://github.com/ucfavour23/cloud-support-devops-30days  
+Designed and maintained a cloud-based system with monitoring, troubleshooting, and incident resolution.
 
 ---
 
 ### 🔹 AWS VPC & Web Deployment
-👉 https://github.com/yourusername/your-vpc-project  
-Designed and deployed cloud network architecture and hosted a web server.
+👉 https://github.com/ucfavour23/YOUR-REPO  
+Built and configured a cloud network architecture and deployed a web server.
 
 ---
 
-### 🔹 Terraform Deployment Project
-👉 https://github.com/yourusername/your-terraform-project  
-Automated infrastructure deployment using Terraform.
+### 🔹 Terraform Infrastructure Project
+👉 https://github.com/ucfavour23/YOUR-REPO  
+Provisioned cloud infrastructure using Infrastructure as Code.
 
 ---
 
-## 🎯 Goal
-To become a Cloud Support / Technical Support Engineer and solve real-world system problems.
+## 🎯 Focus
+Cloud Support | Technical Support | DevOps | System Troubleshooting
 
 ---
 
-## 📫 Let's Connect
-- LinkedIn: (paste your link)
-- Email: ucfavour23@gmail.com
+## 📫 Contact
+Email: ucfavour23@gmail.com  
+LinkedIn: (your link)
