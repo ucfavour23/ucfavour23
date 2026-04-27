@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Uchechi Favour 👋
 
-<!--
-**ucfavour23/ucfavour23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Support & Technical Support Engineer in training, building real-world projects using AWS, Linux, and DevOps tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Cloud Support (AWS)
+- Linux System Administration
+- Troubleshooting & Incident Management
+- DevOps (Terraform, Monitoring, Automation)
+
+---
+
+## 🔧 Tech Stack
+- AWS (EC2, S3, IAM, VPC, CloudWatch)
+- Linux
+- NGINX
+- Terraform
+- Git & GitHub
+- Zendesk / CRM tools
+
+---
+
+## 📂 Projects
+
+### 🔹 30-Day DevOps Challenge
+👉 https://github.com/yourusername/cloud-support-devops-30days  
+Real-world cloud support simulation with monitoring, troubleshooting, and automation.
+
+---
+
+### 🔹 AWS VPC & Web Deployment
+👉 https://github.com/yourusername/your-vpc-project  
+Designed and deployed cloud network architecture and hosted a web server.
+
+---
+
+### 🔹 Terraform Deployment Project
+👉 https://github.com/yourusername/your-terraform-project  
+Automated infrastructure deployment using Terraform.
+
+---
+
+## 🎯 Goal
+To become a Cloud Support / Technical Support Engineer and solve real-world system problems.
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: (paste your link)
+- Email: ucfavour23@gmail.com
