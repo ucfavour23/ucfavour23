@@ -22,32 +22,29 @@ Cloud Support & Technical Support Engineer focused on deploying, troubleshooting
 - Zendesk / CRM tools  
 
 ---
+## 📂 Featured Projects
 
-## 📂 Projects
+### 🔹 Cloud Support & DevOps 30-Day Challenge
+👉 https://github.com/ucfavour23/cloud-support-devops-30days
 
-### 🔹 Cloud Support & DevOps Monitoring System
-👉 https://github.com/ucfavour23/cloud-support-devops-30days  
-Designed and maintained a cloud-based system with monitoring, troubleshooting, and incident resolution.
-
----
-
-### 🔹 AWS VPC & Web Deployment
-👉 https://github.com/ucfavour23/YOUR-REPO  
-Built and configured a cloud network architecture and deployed a web server.
+A real-world cloud support and DevOps challenge focused on AWS, Linux, troubleshooting, monitoring, documentation, and daily GitHub commits.
 
 ---
 
-### 🔹 Terraform Infrastructure Project
-👉 https://github.com/ucfavour23/YOUR-REPO  
-Provisioned cloud infrastructure using Infrastructure as Code.
+### 🔹 EC2 + NGINX + Terraform + Ansible
+👉 https://github.com/ucfavour23/ec2-nginx-terraform-ansible
+
+Provisioned and configured a cloud server environment using Terraform and Ansible with NGINX deployment on AWS EC2.
 
 ---
 
-## 🎯 Focus
-Cloud Support | Technical Support | DevOps | System Troubleshooting
+### 🔹 Professional Resume Website
+👉 https://github.com/ucfavour23/my-Resume
+
+Created a responsive online resume highlighting technical support, cloud computing, AWS projects, and troubleshooting experience.
 
 ---
 
 ## 📫 Contact
 Email: ucfavour23@gmail.com  
-LinkedIn: (your link)
+LinkedIn: linkedin.com/in/uchechifavour
