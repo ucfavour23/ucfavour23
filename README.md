@@ -1,4 +1,5 @@
-****Hi, I’m Uchechi Favour**** 👋
+#Hi, **I’m Uchechi Favour 👋**
+### Cloud Infrastructure | Linux Operations | AWS Monitoring | Technical Support
 
 I build practical cloud infrastructure and operations projects focused on AWS, Linux systems, monitoring, automation, and technical documentation.
 
