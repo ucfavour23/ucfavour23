@@ -1,8 +1,8 @@
 Hi, I’m Uchechi Favour 👋
 
-I build practical cloud infrastructure projects with a focus on AWS, Linux operations, monitoring, automation, and technical documentation.
+I build practical cloud infrastructure and operations projects focused on AWS, Linux systems, monitoring, automation, and technical documentation.
 
-My work is centered on solving real support and operations problems: provisioning servers, configuring access, monitoring system health, setting up alerts, automating routine tasks, and documenting cloud environments so they are easier to maintain and troubleshoot.
+My work is centered on real support and operations problems: deploying servers, configuring access, monitoring system health, setting up alerts, automating routine checks, and documenting cloud environments so they are easier to maintain and troubleshoot.
 
 What I Work With
 
@@ -14,31 +14,53 @@ Documentation: Architecture diagrams, runbooks, deployment guides, troubleshooti
 
 Featured Repositories
 
-1. AWS Ubuntu Operations & Monitoring Platform
+1. AWS Ubuntu Monitoring Platform
 
 Repository: "aws-ubuntu-monitoring-platform"
 
-A practical cloud operations project built to monitor Ubuntu servers running internal applications.
+A Terraform-based AWS infrastructure project for deploying a scalable monitoring application on Ubuntu EC2 instances.
 
-This project shows my ability to provision infrastructure, configure monitoring, set up alerts, automate server checks, and document an operational cloud environment clearly.
+This project demonstrates my ability to design and deploy AWS infrastructure with a practical operations mindset. It focuses on infrastructure provisioning, load balancing, auto scaling, health checks, monitoring, and troubleshooting.
 
 Key work completed:
 
-- Provisioned Ubuntu EC2 infrastructure with Terraform
-- Configured IAM access for SSM and CloudWatch Agent
-- Created CloudWatch alarms for CPU, memory, disk usage, and EC2 status checks
-- Connected CloudWatch alarms to SNS email notifications
-- Wrote Bash scripts for server health checks and log cleanup
-- Built a Flask operations dashboard to display server health data
-- Dockerized the dashboard for consistent runtime
-- Added GitHub Actions workflow for Python tests, Terraform checks, and Docker build validation
-- Documented the architecture, deployment steps, screenshots, runbook, and cost-control process
+- Designed a cloud infrastructure scenario for a growing retail environment
+- Provisioned AWS infrastructure using Terraform
+- Deployed Ubuntu EC2 instances for an internal monitoring application
+- Configured an Application Load Balancer to distribute traffic
+- Used an Auto Scaling Group to maintain healthy EC2 capacity
+- Added CloudWatch alarms to detect sustained CPU pressure
+- Documented the business problem, solution, architecture, deployment steps, and operational troubleshooting process
 
 Repo link: https://github.com/ucfavour23/aws-ubuntu-monitoring-platform
 
 ---
 
-2. EC2 Nginx Terraform Ansible
+2. MedCare Ubuntu Ops Monitoring
+
+Repository: "medcare-ubuntu-ops-monitoring"
+
+A practical Ubuntu operations and monitoring platform built for internal healthcare application support.
+
+This project focuses on visibility, alerting, and operational evidence for Ubuntu servers. It shows how support and cloud operations teams can monitor server health, collect useful Linux metrics, respond to alerts, and document daily system readiness.
+
+Key work completed:
+
+- Provisioned an Ubuntu EC2 instance for operations monitoring
+- Installed monitoring dependencies for Linux health checks
+- Collected CPU, memory, disk, service status, log growth, and server health data
+- Configured CloudWatch alarms and SNS email notifications
+- Built a Flask-based operations dashboard for support engineers
+- Dockerized the dashboard for consistent runtime
+- Added Bash scripts for health checks, log cleanup, and operational reporting
+- Added GitHub Actions CI validation for project checks
+- Documented the business problem, solution, architecture, screenshots, runbook, and support handover process
+
+Repo link: https://github.com/ucfavour23/medcare-ubuntu-ops-monitoring
+
+---
+
+3. EC2 Nginx Terraform Ansible
 
 Repository: "ec2-nginx-terraform-ansible"
 
@@ -59,13 +81,13 @@ Repo link: https://github.com/ucfavour23/ec2-nginx-terraform-ansible
 
 ---
 
-3. My Resume
+4. My Resume
 
 Repository: "My-Resume"
 
-A dedicated repository for my cloud/technical support resume and career profile.
+A dedicated repository for my cloud and technical support resume.
 
-This repo helps recruiters quickly review my background, cloud projects, tools, and areas of interest.
+This repo helps recruiters quickly review my background, cloud projects, tools, and career direction.
 
 It includes:
 
