@@ -1,20 +1,20 @@
-Hi, I’m Uchechi Favour 👋
+****Hi, I’m Uchechi Favour**** 👋
 
 I build practical cloud infrastructure and operations projects focused on AWS, Linux systems, monitoring, automation, and technical documentation.
 
 My work is centered on real support and operations problems: deploying servers, configuring access, monitoring system health, setting up alerts, automating routine checks, and documenting cloud environments so they are easier to maintain and troubleshoot.
 
-What I Work With
+##What I Work With##
 
-Cloud & Infrastructure: AWS EC2, IAM, VPC, S3, CloudFront, Route 53, CloudWatch, SNS
-Infrastructure as Code: Terraform
-Linux & Automation: Ubuntu, Bash scripting, Nginx, Ansible
-DevOps Tools: Docker, GitHub Actions, CI validation
-Documentation: Architecture diagrams, runbooks, deployment guides, troubleshooting notes
+**Cloud & Infrastructure:** AWS EC2, IAM, VPC, S3, CloudFront, Route 53, CloudWatch, SNS
+**Infrastructure as Code:** Terraform
+**Linux & Automation:** Ubuntu, Bash scripting, Nginx, Ansible
+**DevOps Tools:** Docker, GitHub Actions, CI validation
+**Documentation:** Architecture diagrams, runbooks, deployment guides, troubleshooting notes
 
-Featured Repositories
+##Featured Repositories##
 
-1. AWS Ubuntu Monitoring Platform
+###1. AWS Ubuntu Monitoring Platform###
 
 Repository: "aws-ubuntu-monitoring-platform"
 
@@ -36,7 +36,7 @@ Repo link: https://github.com/ucfavour23/aws-ubuntu-monitoring-platform
 
 ---
 
-2. MedCare Ubuntu Ops Monitoring
+###2. MedCare Ubuntu Ops Monitoring###
 
 Repository: "medcare-ubuntu-ops-monitoring"
 
@@ -60,7 +60,7 @@ Repo link: https://github.com/ucfavour23/medcare-ubuntu-ops-monitoring
 
 ---
 
-3. EC2 Nginx Terraform Ansible
+###3. EC2 Nginx Terraform Ansible###
 
 Repository: "ec2-nginx-terraform-ansible"
 
@@ -81,7 +81,7 @@ Repo link: https://github.com/ucfavour23/ec2-nginx-terraform-ansible
 
 ---
 
-4. My Resume
+###4. My Resume###
 
 Repository: "My-Resume"
 
@@ -89,7 +89,7 @@ A dedicated repository for my cloud and technical support resume.
 
 This repo helps recruiters quickly review my background, cloud projects, tools, and career direction.
 
-It includes:
+##It includes:##
 
 - My updated resume
 - Cloud and technical support focus
@@ -99,7 +99,7 @@ It includes:
 
 Repo link: https://github.com/ucfavour23/My-Resume
 
-What I’m Looking For
+##What I’m Looking For##
 
 I’m open to Junior Cloud Engineer, Cloud Support, DevOps Intern, Technical Support, and Remote Cloud Operations roles where I can support cloud infrastructure, troubleshoot systems, improve documentation, and contribute to reliable technical operations.
 
@@ -112,7 +112,7 @@ I’m especially interested in roles involving:
 - Infrastructure automation
 - Remote technical support
 
-Why My GitHub Matters
+##Why My GitHub Matters##
 
 This GitHub is not just for storing code. It is where I show how I approach infrastructure problems, build practical solutions, troubleshoot issues, and explain technical work clearly.
 
